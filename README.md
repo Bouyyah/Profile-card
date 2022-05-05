@@ -29,8 +29,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Bouyyah/3-column-preview-cards)
-- Live Site URL: [Add live site URL here](https://bouyyah.github.io/3-column-preview-cards/)
+- Solution URL: [Add solution URL here](https://github.com/Bouyyah/Profile-card)
+- Live Site URL: [Add live site URL here](https://bouyyah.github.io/Profile-card/)
 
 ## My process
 
@@ -39,8 +39,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 - Semantic HTML5 markup
 - SCSS custom properties
 - Flexbox
-- CSS Grid
-- Mobile-first workflow
+
 
 
 
